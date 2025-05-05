@@ -2,7 +2,7 @@
   
 This account holds previously associated GitHub username.
 <br/>
-New GitHub username: [ybrusentsov](https://github.com/ybrunsentsov).
+New GitHub username: [ybrusentsov](https://github.com/ybrusentsov).
 
 ---
 
